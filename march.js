@@ -19,7 +19,9 @@
 
 // Convert Minutes into Seconds
 // Write a function that takes an integer minutes and converts it to seconds.
-
+function convert(min) {
+    return min * 60;
+}
 // Examples
 convert(5);
 // ➞ 300

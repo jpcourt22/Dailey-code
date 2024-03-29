@@ -36,9 +36,11 @@
 // If you get stuck on a challenge, find help in the Resources tab.
 // If you're really stuck, unlock solutions in the Solutions tab.
 
-// Return the Next Number from the Integer Passed March/29/2024
+// Return the Next Number from the Integer Passed March/29/2024 Updated
 // Create a function that takes a number as an argument, increments the number by +1 and returns the result.
-
+function addition(num1) {
+    return num1 + 1;
+}
 // Examples
 addition(0);
 // ➞ 1

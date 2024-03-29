@@ -10,7 +10,7 @@
 // addition(-3, -6);
 // // ➞ -9
 
-// addition(7, 3); March/27/2024
+// addition(7, 3); March/27/2024 Updated
 // // ➞ 10
 // // Notes
 // // Don't forget to return the result.
@@ -19,18 +19,35 @@
 
 // Convert Minutes into Seconds
 // Write a function that takes an integer minutes and converts it to seconds.
-function convert(min) {
-    return min * 60;
-}
+// function convert(min) {
+//     return min * 60;
+// }
 // Examples
-convert(5);
-// ➞ 300
+// convert(5);
+// // ➞ 300
 
-convert(3);
-//  ➞ 180
+// convert(3);
+// //  ➞ 180
 
-convert(2);
+// convert(2);
 // ➞ 120
+// Notes
+// Don't forget to return the result.
+// If you get stuck on a challenge, find help in the Resources tab.
+// If you're really stuck, unlock solutions in the Solutions tab.
+
+// Return the Next Number from the Integer Passed March/29/2024
+// Create a function that takes a number as an argument, increments the number by +1 and returns the result.
+
+// Examples
+addition(0);
+// ➞ 1
+
+addition(9);
+//  ➞ 10
+
+addition(-3);
+// ➞ -2
 // Notes
 // Don't forget to return the result.
 // If you get stuck on a challenge, find help in the Resources tab.

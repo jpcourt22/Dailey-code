@@ -55,8 +55,11 @@
 // If you get stuck on a challenge, find help in the Resources tab.
 // If you're really stuck, unlock solutions in the Solutions tab.
 
-// Convert Age to Days April/3/2024
+// Convert Age to Days April/3/2024 Updated
 // Create a function that takes the age in years and returns the age in days.
+function calcAge(age) {
+    return age * 365;
+}
 
 // Examples
 calcAge(65);

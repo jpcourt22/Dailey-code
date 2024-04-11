@@ -57,20 +57,41 @@
 
 // Convert Age to Days April/3/2024 Updated
 // Create a function that takes the age in years and returns the age in days.
-function calcAge(age) {
-    return age * 365;
-}
+// function calcAge(age) {
+//     return age * 365;
+// }
 
-// Examples
-calcAge(65);
-// ➞ 23725
+// // Examples
+// calcAge(65);
+// // ➞ 23725
 
-calcAge(0);
-// ➞ 0
+// calcAge(0);
+// // ➞ 0
 
-calcAge(20);
+// calcAge(20);
 // ➞ 7300
 // Notes
 // Use 365 days as the length of a year for this challenge.
 // Ignore leap years and days between last birthday and now.
 // Expect only positive integer inputs.
+
+// Return the Remainder from Two Numbers 4/11/2024
+// There is a single operator in JavaScript, capable of providing the remainder of a division operation. Two numbers are passed as parameters. The first parameter divided by the second parameter will have a remainder, possibly zero. Return that value.
+
+// Examples
+remainder(1, 3);
+// ➞ 1
+
+remainder(3, 4);
+// ➞ 3
+
+remainder(-9, 45);
+// ➞ -9
+
+remainder(5, 5);
+// ➞ 0
+// Notes
+// The tests only use positive and negative integers.
+// Don't forget to return the result.
+// If you get stuck on a challenge, find help in the Resources tab.
+// If you're really stuck, unlock solutions in the Solutions tab.
